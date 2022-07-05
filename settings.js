@@ -1,6 +1,6 @@
 //════════════(00)════════════════\\
 //
-//          RED DRAGON v6.0
+//          🤡🖥සයිබර් මාෆියාවෙ රන්සිලුව යකෝ චමියා සේව් නොදා ඉන්න තරමට හොදයි 🤡🖥
 //
 //════════════(00)════════════════\\
 
@@ -19,28 +19,28 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is නම මොකටද යකෝ 😒💔 මම ජෝකර් උබේ කතාවෙ 🤡
+My Creator is සයිබර් මාෆියාවෙ රන්සිලුව යකෝ චමියා සේව් නොදා ඉන්න තරමට හොදයි 🤡🖥` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+94740522887'] //Owner number in aive msg
+global.premium = ['+94740522887'] //Owner Number info
+global.ownernomer = '+94740522887' //Owner Number <<<
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
+global.ownername = 'සයිබර් මාෆියාවෙ රන්සිලුව යකෝ චමියා සේව් නොදා ඉන්න තරමට හොදයි 🤡🖥' //Owner Name
+global.botname = ' ☬My name is නම මොකටද යකෝ 😒💔 මම ජෝකර් උබේ කතාවෙ 🤡࿐' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '📍MY WA/BOT GROUP' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/FX2WqLyyvsk4qDQ504Q0Ck' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.packname = '☬My name is නම මොකටද යකෝ 😒💔 මම ජෝකර් උබේ කතාවෙ 🤡࿐' //Bot Pacage Name
+global.author = 'සයිබර් මාෆියාවෙ රන්සිලුව යකෝ චමියා සේව් නොදා ඉන්න තරමට හොදයි 🤡🖥❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_CYBER CHAMIYA.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
@@ -48,13 +48,13 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
+    admin: 'Only Admins can use it!🤡🖥',
     botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    owner: 'Only Owner can use this!🤡🖥',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    bot: 'This Feature Is Only For Bot🤡🖥',
+    wait: 'Pleas Wait🤡🖥...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
